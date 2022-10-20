@@ -1,0 +1,339 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"22d0e8e4-5729-47d0-9ce2-d4e0ed15b0f6\" name=\"Changes\" comment=\"틀잡음\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/5weeks.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/gradle.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/jarRepositories.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/jpa-buddy.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/project/src/main/java/com/sparta/project/shared/Authority.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/.gradle/7.5/checksums/checksums.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/.gradle/7.5/checksums/checksums.lock\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/.gradle/7.5/executionHistory/executionHistory.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/.gradle/7.5/executionHistory/executionHistory.lock\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/.gradle/7.5/fileHashes/fileHashes.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/.gradle/7.5/fileHashes/fileHashes.lock\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/.gradle/buildOutputCleanup/buildOutputCleanup.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/.gradle/buildOutputCleanup/buildOutputCleanup.lock\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/.gradle/buildOutputCleanup/cache.properties\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/.gradle/buildOutputCleanup/cache.properties\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/src/main/java/com/sparta/project/entity/Member.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/src/main/java/com/sparta/project/entity/Member.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/src/main/java/com/sparta/project/entity/UserDetailsImpl.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/src/main/java/com/sparta/project/entity/UserDetailsImpl.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/src/main/java/com/sparta/project/jwt/AccessDeniedHandlerException.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/src/main/java/com/sparta/project/jwt/AccessDeniedHandlerException.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project/src/main/java/com/sparta/project/jwt/TokenProvider.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project/src/main/java/com/sparta/project/jwt/TokenProvider.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$/project\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"ExternalProjectsManager\">\r\n    <system id=\"GRADLE\">\r\n      <state>\r\n        <task path=\"$PROJECT_DIR$/project\">\r\n          <activation />\r\n        </task>\r\n        <projects_view>\r\n          <tree_state>\r\n            <expand>\r\n              <path>\r\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\r\n                <item name=\"project\" type=\"f1a62948:ProjectNode\" />\r\n              </path>\r\n              <path>\r\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\r\n                <item name=\"project\" type=\"f1a62948:ProjectNode\" />\r\n                <item name=\"Dependencies\" type=\"6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode\" />\r\n              </path>\r\n              <path>\r\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\r\n                <item name=\"project\" type=\"f1a62948:ProjectNode\" />\r\n                <item name=\"Dependencies\" type=\"6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode\" />\r\n                <item name=\"runtimeClasspath\" type=\"62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode\" />\r\n              </path>\r\n            </expand>\r\n            <select />\r\n          </tree_state>\r\n        </projects_view>\r\n      </state>\r\n    </system>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"lhj\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"PREVIEW_PUSH_PROTECTED_ONLY\" value=\"true\" />\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lhj\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"JpbToolWindowState\">\r\n    <option name=\"myId2FirstActivated\">\r\n      <map>\r\n        <entry key=\"com.haulmont.jpb.jpaInspector\" value=\"true\" />\r\n        <entry key=\"com.haulmont.jpb.jpaPalette\" value=\"true\" />\r\n        <entry key=\"com.haulmont.jpb.jpaStructure\" value=\"true\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"myId2Visible\">\r\n      <map>\r\n        <entry key=\"com.haulmont.jpb.jpaInspector\" value=\"false\" />\r\n        <entry key=\"com.haulmont.jpb.jpaPalette\" value=\"false\" />\r\n        <entry key=\"com.haulmont.jpb.jpaStructure\" value=\"false\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2G7hhh9Ia4L1mE8Z5atInhGPdpm\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,\r\n    &quot;spring.configuration.checksum&quot;: &quot;23ff5e1ed443861eaca377495be7b2ec&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"com.sparta.project.shared\" />\r\n      <recent name=\"com.sparta.project.entity\" />\r\n      <recent name=\"com.sparta.project.repository\" />\r\n      <recent name=\"com.sparta.project.dto.request\" />\r\n      <recent name=\"com.sparta.project.dto.response\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"ProjectApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\">\r\n      <module name=\"project.main\" />\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.sparta.project.ProjectApplication\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"22d0e8e4-5729-47d0-9ce2-d4e0ed15b0f6\" name=\"Changes\" comment=\"\" />\r\n      <created>1665745651207</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1665745651207</updated>\r\n      <workItem from=\"1665745655404\" duration=\"988000\" />\r\n      <workItem from=\"1665965960531\" duration=\"811000\" />\r\n      <workItem from=\"1665966877104\" duration=\"4872000\" />\r\n      <workItem from=\"1665978557825\" duration=\"1548000\" />\r\n      <workItem from=\"1665980487499\" duration=\"3815000\" />\r\n      <workItem from=\"1665984494988\" duration=\"2916000\" />\r\n      <workItem from=\"1665987558599\" duration=\"2280000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"틀잡음\">\r\n      <created>1665978451003</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665978451003</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"틀잡음\">\r\n      <created>1665982829162</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1665982829163</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"lhj\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"틀잡음\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"틀잡음\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1819eac8319cbfcdaece79f9f6b44ed8aa01f50c)
++++ b/.idea/workspace.xml	(date 1666087943333)
+@@ -5,27 +5,21 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="22d0e8e4-5729-47d0-9ce2-d4e0ed15b0f6" name="Changes" comment="틀잡음">
+-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/5weeks.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/project/src/main/java/com/sparta/project/shared/Authority.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project/.gradle/7.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/project/.gradle/7.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.5/executionHistory/executionHistory.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/project/.gradle/7.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project/src/main/java/com/sparta/project/entity/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/com/sparta/project/entity/Member.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project/src/main/java/com/sparta/project/entity/UserDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/com/sparta/project/entity/UserDetailsImpl.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project/src/main/java/com/sparta/project/jwt/AccessDeniedHandlerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/com/sparta/project/jwt/AccessDeniedHandlerException.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/project/src/main/java/com/sparta/project/jwt/TokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/java/com/sparta/project/jwt/TokenProvider.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gradle/file-system.probe" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/project/gradlew" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/project/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/src/main/resources/application.properties" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -45,142 +39,105 @@
+         </task>
+         <projects_view>
+           <tree_state>
+-            <expand>
+-              <path>
+-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+-                <item name="project" type="f1a62948:ProjectNode" />
+-              </path>
+-              <path>
+-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+-                <item name="project" type="f1a62948:ProjectNode" />
+-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+-              </path>
+-              <path>
+-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+-                <item name="project" type="f1a62948:ProjectNode" />
+-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+-                <item name="runtimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+-              </path>
+-            </expand>
++            <expand />
+             <select />
+           </tree_state>
+         </projects_view>
+       </state>
+     </system>
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-      </list>
+-    </option>
+   </component>
+   <component name="Git.Settings">
+-    <favorite-branches>
+-      <branch-storage>
+-        <map>
+-          <entry type="LOCAL">
+-            <value>
+-              <list>
+-                <branch-info repo="$PROJECT_DIR$" source="lhj" />
+-              </list>
+-            </value>
+-          </entry>
+-        </map>
+-      </branch-storage>
+-    </favorite-branches>
+-    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="lhj" />
++        <entry key="$PROJECT_DIR$" value="ksy" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="JpbToolWindowState">
+-    <option name="myId2FirstActivated">
+-      <map>
+-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+-      </map>
+-    </option>
+-    <option name="myId2Visible">
+-      <map>
+-        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+-        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+-        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+-      </map>
+-    </option>
+-  </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+-  <component name="ProjectId" id="2G7hhh9Ia4L1mE8Z5atInhGPdpm" />
++  <component name="ProjectId" id="2GG15FqkPVs1B5CtOeZJvQPbi29" />
+   <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+-    &quot;spring.configuration.checksum&quot;: &quot;23ff5e1ed443861eaca377495be7b2ec&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RequestMappingsPanelOrder0": "0",
++    "RequestMappingsPanelOrder1": "1",
++    "RequestMappingsPanelOrder2": "2",
++    "RequestMappingsPanelWidth0": "75",
++    "RequestMappingsPanelWidth1": "75",
++    "RequestMappingsPanelWidth2": "75",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "last_opened_file_path": "C:/Users/gram/Desktop/5weeks - JWTv1_백업",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)"
++  },
++  "keyToStringList": {
++    "DatabaseDriversLRU": [
++      "mysql"
++    ]
+   }
+-}</component>
+-  <component name="RecentsManager">
+-    <key name="CopyClassDialog.RECENTS_KEY">
+-      <recent name="com.sparta.project.shared" />
+-      <recent name="com.sparta.project.entity" />
+-      <recent name="com.sparta.project.repository" />
+-      <recent name="com.sparta.project.dto.request" />
+-      <recent name="com.sparta.project.dto.response" />
+-    </key>
+-  </component>
+-  <component name="RunManager">
++}]]></component>
++  <component name="RunManager" selected="Spring Boot.ProjectApplication">
++    <configuration name="project [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$/project" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value="dependencies" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <method v="2" />
++    </configuration>
+     <configuration name="ProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
++      <option name="ACTIVE_PROFILES" />
+       <module name="project.main" />
+       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sparta.project.ProjectApplication" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
++    <list>
++      <item itemvalue="Gradle.project [dependencies]" />
++      <item itemvalue="Spring Boot.ProjectApplication" />
++    </list>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Gradle.project [dependencies]" />
++      </list>
++    </recent_temporary>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+-      <changelist id="22d0e8e4-5729-47d0-9ce2-d4e0ed15b0f6" name="Changes" comment="" />
+-      <created>1665745651207</created>
++      <changelist id="22d0e8e4-5729-47d0-9ce2-d4e0ed15b0f6" name="Changes" comment="틀잡음" />
++      <created>1665999921795</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+-      <updated>1665745651207</updated>
+-      <workItem from="1665745655404" duration="988000" />
+-      <workItem from="1665965960531" duration="811000" />
+-      <workItem from="1665966877104" duration="4872000" />
+-      <workItem from="1665978557825" duration="1548000" />
+-      <workItem from="1665980487499" duration="3815000" />
+-      <workItem from="1665984494988" duration="2916000" />
+-      <workItem from="1665987558599" duration="2280000" />
++      <updated>1665999921795</updated>
++      <workItem from="1665999923592" duration="27345000" />
++      <workItem from="1666078862811" duration="53000" />
++      <workItem from="1666087927864" duration="16000" />
+     </task>
+-    <task id="LOCAL-00001" summary="틀잡음">
+-      <created>1665978451003</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1665978451003</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="틀잡음">
+-      <created>1665982829162</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1665982829163</updated>
+-    </task>
+-    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -191,30 +148,25 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State>
+-              <option name="FILTERS">
+-                <map>
+-                  <entry key="branch">
+-                    <value>
+-                      <list>
+-                        <option value="lhj" />
+-                      </list>
+-                    </value>
+-                  </entry>
+-                </map>
+-              </option>
+-            </State>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="RECENT_FILTERS">
++      <map>
++        <entry key="Branch">
++          <value>
++            <list>
++              <RecentGroup>
++                <option name="FILTER_VALUES">
++                  <option value="HEAD" />
++                </option>
++              </RecentGroup>
++            </list>
+           </value>
+         </entry>
+       </map>
+     </option>
+   </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="틀잡음" />
+-    <option name="LAST_COMMIT_MESSAGE" value="틀잡음" />
+-  </component>
+-  <component name="XSLT-Support.FileAssociations.UIState">
+-    <expand />
+-    <select />
+-  </component>
+ </project>
+\ No newline at end of file
+Index: project/src/main/resources/application.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\r\n\r\n# í\u0084°ë¯¸ë\u0084\u0090ì\u0097\u0090ì\u0084\u009C echo 'spring-boot-security-jwt-hanghae-assignment-spring-boot-security-jwt-secret-key' | base64 ë¥¼ ì\u008B¤í\u0096\u0089í\u0095\u009C ê²°ê³¼ ê°\u0092\r\njwt.secret=c3ByaW5nLWJvb3Qtc2VjdXJpdHktand0LWhhbmdoYWUtYXNzaWdubWVudC1zcHJpbmctYm9vdC1zZWN1cml0eS1qd3Qtc2VjcmV0LWtleQo=\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>ISO-8859-1
+===================================================================
+diff --git a/project/src/main/resources/application.properties b/project/src/main/resources/application.properties
+--- a/project/src/main/resources/application.properties	(revision 1819eac8319cbfcdaece79f9f6b44ed8aa01f50c)
++++ b/project/src/main/resources/application.properties	(date 1666072601650)
+@@ -2,3 +2,21 @@
+ 
+ # í°ë¯¸ëìì echo 'spring-boot-security-jwt-hanghae-assignment-spring-boot-security-jwt-secret-key' | base64 ë¥¼ ì¤íí ê²°ê³¼ ê°
+ jwt.secret=c3ByaW5nLWJvb3Qtc2VjdXJpdHktand0LWhhbmdoYWUtYXNzaWdubWVudC1zcHJpbmctYm9vdC1zZWN1cml0eS1qd3Qtc2VjcmV0LWtleQo=
++
++spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
++spring.datasource.url=jdbc:mysql://springboot-database.chjdt9lcihgp.ap-northeast-2.rds.amazonaws.com:3306/myselectshop
++spring.datasource.username=admin
++spring.datasource.password=xodlalfh14
++spring.output.ansi.enabled=always
++
++spring.jpa.show-sql=true
++spring.jpa.generate-ddl=true
++spring.jpa.hibernate.ddl-auto=update
++
++server.servlet.encoding.charset=utf-8
++server.servlet.encoding.enabled=true
++server.servlet.encoding.force=true
++
++spring.jackson.serialization.FAIL_ON_EMPTY_BEANS=false
++
++spring.mvc.pathmatch.matching-strategy=ant_path_matcher
+\ No newline at end of file
